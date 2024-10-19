@@ -1,0 +1,128 @@
+
+.request-button{
+    background-color: black;
+    color : white;
+    cursor:pointer;
+    height:38px ;
+    width:120px ;
+    transition: opacity  0.12s;
+
+}
+.request-button:hover{
+    background-color: rgb(79, 77, 77);
+    opacity : 0.8
+}
+
+.request-button:active{
+    opacity: 0.4;
+}
+.cart-button{
+    background-color: rgb(255,216,20);
+    height: 38px;
+    width: 220px;
+    border-radius: 30px;
+    border : none;
+    cursor:pointer;
+    transition: opacity , 1s;
+
+
+}
+.cart-button:hover{
+    background-color: rgb(212, 181, 30);
+
+}
+.cart-button:active{
+    opacity: 0.4;
+}
+.signup-button{
+    background-color: rgb(46,164,79);
+    border: none;
+    border-radius: 2px;
+    font-weight: bold;
+    color :white;
+    height: 36px;
+    width: 100px;
+    cursor:pointer;
+    transition: opacity 0.12s;
+    transition: opacity 0.14s;
+}
+.signup-button:hover{
+    box-shadow: 6px 6px 10px rgba(175, 172, 172,0.8);
+
+}
+.signup-button:active{
+    background-color:rgb(9, 193, 200);
+    opacity : 0.8;
+}
+
+.Get-button{
+    background-color: rgb(121,82,179);
+    font-weight: bold;
+    border: none;
+    border-radius: 2px;
+    color: white;
+    height: 36px;
+    width: 100px;
+    cursor:pointer;
+    transition: opacity 0.12s;
+
+}
+.Get-button:hover{
+    background-color:  rgb(132, 79, 212);
+    opacity: 0.8;
+}
+.download-button{
+    background-color: white;
+    color: rgb(108,117,125);
+    font-weight: bold;
+    border-color: rgb(108,117,125);
+    border-radius: 2px;
+    height: 36px;
+    width:100px ;
+    margin-left:20px;
+    cursor:pointer;
+    transition: background-color 0.20s,
+    color 0.20s;
+
+}
+.download-button:hover{
+    background-color: rgb(108,117,125);
+    color: white; 
+}
+.apply-button{
+    background-color:rgb(10,102,194);
+    color: white;
+    font-weight: bold;
+    border: none;
+    border-radius: 30px;
+    padding-top: 13px;
+    padding-bottom:13px ;
+    padding-left: 13px;
+    padding-right: 13px;
+    margin-right:20px;
+    cursor:pointer;
+    transition: background-color 0.12s; 
+}
+.apply-button:hover{
+    background-color:rgb(8, 56, 152);
+    
+}
+.save-button{
+    background-color: white;
+    color: rgb(10,102,194);
+    font-weight: bold;
+    border-color: rgb(10,102,194);
+    border-radius: 36px;
+    height: 36px;
+    width:99px;
+    cursor:pointer;
+    transition: box-shadow 0.12s;
+
+
+}
+.save-button:hover{
+    background-color: rgb(134, 193, 240);
+    box-shadow:6px 6px 9px gray ;
+    border-width: 4px;
+    font-size: medium;
+}
