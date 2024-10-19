@@ -1,0 +1,206 @@
+.img-div{
+    display: inline-block;
+}
+.image{
+    width : 70px;
+    height: 65px;
+    border-radius: 50%;
+}
+.text-div{
+    display: inline-block;
+}
+.name{
+    font-family: Arial;
+    font-weight:bold;
+    vertical-align :top;
+    margin-left: 20px;
+    margin-bottom: 5px;
+
+}
+.description{
+    font-family: Arial;
+    width :100px;
+    vertical-align: middle;
+    margin-left: 20px;
+    color : gray;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.button-div{
+    display: inline-block;
+    margin-left: 120px;
+    vertical-align:120%;
+}
+.button{
+    width: 90px;
+    height: 40px;
+    font-family: Arial;
+    color: white;
+    background-color: rgb(58, 138, 224);
+    border: none;
+    border-radius: 6px;
+    font-size: large;
+    text-align:center;
+
+}
+
+/* 10b. */
+.img2-div{
+    display: inline-block;
+}
+.image2{
+    width : 70px;
+    height: 65px;
+    border-radius: 50%;
+}
+.text-div2{
+    display: inline-block;
+}
+.name2{
+    font-family: Arial;
+    font-weight:bold;
+    vertical-align :top;
+    margin-left: 20px;
+    margin-bottom: 5px;
+
+}
+.description2{
+    font-family: Arial;
+    width :100px;
+    vertical-align: middle;
+    margin-left: 20px;
+    color : gray;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.button-div2{
+    display: inline-block;
+    margin-left: 120px;
+    vertical-align:120%;
+}
+.button2{
+    width: 90px;
+    height: 40px;
+    font-family: Arial;
+    color: white;
+    background-color: rgb(58, 138, 224);
+    border: none;
+    border-radius: 6px;
+    font-size: large;
+    text-align:center;
+
+}
+
+/* 10b-3. */
+.div-3{
+    display: block;
+    margin-bottom: 50px;
+}
+.img3-div{
+    display:inline-block;
+}
+.image3{
+    width : 70px;
+    height: 65px;
+    border-radius: 50%;
+    display:inline-block ;
+}
+.text-div3{
+    display: inline-block;
+}
+.name3{
+    font-family: Arial;
+    font-weight:bold;
+    vertical-align :top;
+    margin-left: 20px;
+    margin-bottom: 5px;
+
+}
+.description3{
+    font-family: Arial;
+    width :105px;
+    vertical-align: middle;
+    margin-left: 20px;
+    color : gray;
+    margin-top: 10px;
+    margin-bottom: 0px;
+}
+.button-div3{
+    display: inline-block;
+    margin-left: 120px;
+    vertical-align:120%;
+}
+.button3{
+    width: 90px;
+    height: 40px;
+    font-family: Arial;
+    color: white;
+    background-color: rgb(58, 138, 224);
+    border: none;
+    border-radius: 6px;
+    font-size: large;
+    text-align:center;
+}
+
+/* 10c. thumbnail-making */
+
+.thumbnail-div{
+    display: inline-block;
+}
+.thumbnail-1st-img{
+    width: 240px;
+    height: 140px;
+}
+.title-div{
+    display: inline-block;
+    vertical-align: top;
+}
+.video-title{
+    font-family: Arial;
+    font-weight:bold;
+    font-size: 20px;
+    width : 280px;
+    margin-top: 0px;
+    line-height: 25px;
+}
+.channel-name ,.views{
+    font-family: Arial;
+    color : rgb(72, 70, 70);
+    font-weight:bold;
+    margin-bottom: 0px;
+}
+.views{
+    margin-top: 10px;
+}
+
+/* 10c.2nd thumbanil */
+
+.thumbnail-div2{
+    display:block;
+    margin-top: 25px;
+}
+.thumbnail-2nd-img{
+    width: 240px;
+    height: 140px;
+}
+.title-div2{
+    display: inline-block;
+    vertical-align: top;
+}
+.video-title2{
+    font-family: Arial;
+    font-weight:bold;
+    font-size: 20px;
+    width : 280px;
+    margin-top: 0px;
+    line-height: 25px;
+}
+.channel-name2 ,.views2{
+    font-family: Arial;
+    color : rgb(72, 70, 70);
+    font-weight:bold;
+    margin-bottom: 0px;
+}
+.views2{
+    margin-top: 10px;
+}

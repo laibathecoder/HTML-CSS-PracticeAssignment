@@ -1,0 +1,154 @@
+.main-div{
+    box-shadow: 2px 2px 4px rgb(125, 122, 122) ;
+    width:220px;
+    height: 430px;
+    display :inline-block;
+    grid-template-columns: 100px 100px 100px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+.pic1{
+    width:220px;
+    height: 260px;
+    margin-bottom: 0px;
+}
+.name{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: larger;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.roundimg-div{
+    display: inline-block;
+}
+.round-img{
+    border-radius: 50%;
+    width: 35px;
+    height: 32px;
+    display: inline-block;
+    margin-left: 10px;
+}
+.friends-number{
+    font-family: Arial;
+    color: rgb(92, 88, 88);
+    display: inline-block;
+    vertical-align:10px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 8px;
+}
+.fri-button{
+    margin-top: 16px;
+    height: 40px;
+    width: 120px;
+    background-color: rgb(49, 126, 193);
+    color:white;
+    border:none;
+    border-radius: 6px;
+    font-size:17px;
+    margin-left: 10px;
+}
+
+/* 10d-02-card style */
+
+.main-div-2{
+    box-shadow: 2px 2px 4px rgb(125, 122, 122) ;
+    width:220px;
+    height: 430px;
+    display: inline-block;
+}
+.pic1-2{
+    width:220px;
+    height: 260px;
+    margin-bottom: 0px;
+}
+.name-2{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: larger;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.roundimg-div-2{
+    display: inline-block;
+}
+.round-img-2{
+    border-radius: 50%;
+    width: 35px;
+    height: 32px;
+    display: inline-block;
+    margin-left: 10px;
+}
+.friends-number-2{
+    font-family: Arial;
+    color: rgb(92, 88, 88);
+    display: inline-block;
+    vertical-align:10px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 8px;
+}
+.fri-button-2{
+    margin-top: 16px;
+    height: 40px;
+    width: 120px;
+    background-color: rgb(49, 126, 193);
+    color:white;
+    border:none;
+    border-radius: 6px;
+    font-size:17px;
+    margin-left: 10px;
+}
+
+/* 10d-03-card style */
+
+.main-div-3{
+    box-shadow: 2px 2px 4px rgb(125, 122, 122) ;
+    width:220px;
+    height: 430px;
+    display :inline-block;
+    margin-left: 20px;
+}
+.pic1-3{
+    width:220px;
+    height: 260px;
+    margin-bottom: 0px;
+}
+.name-3{
+    font-family: Arial;
+    font-weight: bold;
+    font-size: larger;
+    margin-bottom: 10px;
+    margin-left: 10px;
+}
+.roundimg-div-3{
+    display: inline-block;
+}
+.round-img-3{
+    border-radius: 50%;
+    width: 35px;
+    height: 32px;
+    display: inline-block;
+    margin-left: 10px;
+}
+.friends-number-3{
+    font-family: Arial;
+    color: rgb(92, 88, 88);
+    display: inline-block;
+    vertical-align:10px;
+    margin-top: 0%;
+    margin-bottom: 0%;
+    margin-left: 8px;
+}
+.fri-button-3{
+    margin-top: 16px;
+    height: 40px;
+    width: 120px;
+    background-color: rgb(49, 126, 193);
+    color:white;
+    border:none;
+    border-radius: 6px;
+    font-size:17px;
+    margin-left: 10px;
+}
